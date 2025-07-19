@@ -9,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",
+    "predeploy": "echo 'www.zobiaimpex.in' > public/CNAME && npm run build",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {

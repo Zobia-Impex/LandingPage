@@ -101,7 +101,7 @@ const ZobiaImpex = () => {
               <span className="text-white font-bold text-xl">Z</span>
             </div>
             <h1 className="text-2xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent ml-2">
-              ZOBIA IMPEX
+              ZI Electronics
             </h1>
           </motion.div>
 
