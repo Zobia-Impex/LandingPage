@@ -44,14 +44,6 @@ const ZobiaImpex = () => {
     return () => clearInterval(interval);
   }, []);
 
-  // Removed: categories (no longer used)
-
-  // Removed: products (no longer used)
-
-  // Removed: testimonials (no longer used)
-
-  // Removed: features (no longer used)
-
   const socialIcons = [
     { icon: <FaFacebookF />, color: "hover:bg-blue-600" },
     { icon: <FaTwitter />, color: "hover:bg-sky-500" },
